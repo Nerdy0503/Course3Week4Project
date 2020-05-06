@@ -27,7 +27,7 @@ Then the Fast Fourier Transform (FFT) was applied on some of these signals.
 More information about the original data sets can be found in the features_info.txt 
 and README.txt files in the "UCI HAR Dataset" folder.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Only the average values of the mean and standard deviation, by activity and subjected ID 
 have been reported in the tidy dataset whose columns are as follows:
