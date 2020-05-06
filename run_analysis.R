@@ -162,7 +162,7 @@ library(dplyr)
         
         
         
-# 6. output and writing the data set into a text file
+# 6. output and writing the data set into a text file 
         
         print(tidyDataSet)
         write.table(tidyDataSet, "tidy_data_set.txt", row.names = FALSE)
