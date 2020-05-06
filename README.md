@@ -9,6 +9,10 @@ II)   Download the "getdata_projectfiles_UCI HAR Dataset.zip" file, from the URL
 
 III)  Unzipp it in the working directory to a "UCI HAR Dataset" folder
 
+IV)   Run the file called "run_analysis.R"
+
+V)    Description of the output dataset variables is given in the CodeBook.md file 
+
 
 
 the file run_analysis.R does the following:
